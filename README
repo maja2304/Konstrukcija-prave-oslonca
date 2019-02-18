@@ -1,0 +1,2 @@
+gcc -o prava_oslonca prava_oslonca.c -lm
+
